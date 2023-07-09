@@ -32,7 +32,7 @@ const Body = () => {
         </h1>
         <img
           src={Photo}
-          className="border-4 border-black rounded-full w-56"
+          className="border-4 bg-gray-200 border-black rounded-full w-56"
         ></img>
       </div>
     </div>

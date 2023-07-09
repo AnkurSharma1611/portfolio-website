@@ -1,6 +1,6 @@
 const Header = () => {
   return (
-    <div className="flex justify-end bg-gray-300 shadow-lg ">
+    <div className="flex justify-end bg-gray-200 shadow-lg ">
       <div>
         <ul className="flex p-4 m-4">
           <li className="hover:cursor-pointer m-4 p-2 font-bold">Home</li>
