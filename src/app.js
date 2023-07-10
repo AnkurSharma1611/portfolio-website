@@ -4,6 +4,7 @@ import Header from "./Components/Header";
 import Body from "./Components/Body";
 import About from "./Components/About";
 import Footer from "./Components/Footer";
+import Contact from "./Components/Contact";
 
 const AppLayout = () => {
   return (
@@ -11,6 +12,7 @@ const AppLayout = () => {
       <Header />
       <Body />
       <About />
+      <Contact />
       <Footer />
     </div>
   );

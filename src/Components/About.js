@@ -12,7 +12,7 @@ const About = () => {
           Ankur delivers exceptional frontend solutions while collaborating
           effectively with cross-functional teams.
         </p>
-        <div className="flex place-content-center shrink h-4/6 w-full items-center">
+        <div className="flex place-content-center  h-4/6 w-full items-center">
           <img src={FrontendPhoto} className="h-3/6"></img>
         </div>
       </div>
